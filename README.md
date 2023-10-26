@@ -1,0 +1,2 @@
+# honoursthesis
+The file "Simulation_framework_script.R" is a R script file containing the code to simulate a genotype and phenotype data goverened by the parameters: number of individuals, number of causal variants, heritability of causal variants, population structure and number of repetitions. It outputs the results of applying GWAS, the E-value and the LASSO to these simulated populations. This code was produced as part of my honours thesis and the full description can be found in the Methods chapter of that thesis. 
